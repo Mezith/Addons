@@ -1,0 +1,9 @@
+## Title: ChefHat
+## Version: 1.2
+## Author: Mezith
+## Interface: 11304
+## X-Min-Interface-Classic: 11304
+## X-Min-Interface-BCC: 20504
+## X-Min-Interface-Wrath: 30400
+
+Code1.lua
