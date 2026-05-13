@@ -1,0 +1,7 @@
+## Interface: 10140
+## Title: X|cffaeaeddmas
+## Author: Mezith-Faerlina
+## Notes: Turn your Character into a christmas bulb.
+## Version: 1.2
+## Savedvariables: XmasVar
+XmasClassic.lua
