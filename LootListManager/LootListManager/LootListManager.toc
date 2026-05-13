@@ -1,0 +1,8 @@
+## Title: LootListManager
+## Version: 1.0
+## Author: Mezith
+## Interface: 80205
+## SavedVariablesPerCharacter:LootlistTest23
+## SavedVariables:LootlistbackUp23, disEnchAnTe_R, looTThResHolD
+
+Frame.xml
