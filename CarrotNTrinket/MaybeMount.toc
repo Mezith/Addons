@@ -1,5 +1,5 @@
 ## Interface: 30300
-## Title: CarrotNTrinket
+## Title: MaybeMount
 ## Version: 3.3.1
 ## Author: Mezith
 ## SavedVariablesPerCharacter: tRiNkeTsAv
